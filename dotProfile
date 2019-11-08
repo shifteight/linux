@@ -1,0 +1,14 @@
+export QT_QPA_PLATFORMTHEME="qt5ct"
+
+export QT_SCALE_FACTOR=1
+export QT_AUTO_SCREEN_SCALE_FACTOR=0
+export QT_SCREEN_SCALE_FACTORS=2
+
+
+export EDITOR=/usr/bin/nano
+alias vi='vim'
+alias svi='sudo vim' 
+
+
+export RUSTUP_DIST_SERVER=https://mirrors.tuna.tsinghua.edu.cn/rustup
+export PATH="$HOME/.cargo/bin:$PATH"

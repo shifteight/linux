@@ -1,0 +1,5 @@
+[core]
+	excludesfile = /Users/kevin/.gitignore
+[user]
+	email = yanxiang.qian@gmail.com
+	name = Kevin Qian
